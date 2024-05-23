@@ -1,0 +1,27 @@
+{
+    "instrument": "Fermi Gamma-ray Space Telescope",
+    "energy_range": {
+        "min": 300,
+        "max": 1000,
+        "unit": "MeV"
+    },
+    "observation_year": 2008,
+    "data_points": [
+        {
+            "ra": 83.63,
+            "dec": 22.01,
+            "flux": 5.12e-7
+        },
+        {
+            "ra": 150.52,
+            "dec": 2.21,
+            "flux": 3.45e-7
+        },
+        {
+            "ra": 202.48,
+            "dec": -47.13,
+            "flux": 7.89e-7
+        }
+    ]
+}
+
